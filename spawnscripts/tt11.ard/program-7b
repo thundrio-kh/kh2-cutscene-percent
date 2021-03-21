@@ -1,0 +1,9 @@
+Program 0x7B
+AreaSettings 0 -1
+	SetProgressFlag 0x86D
+	SetMember 0
+	SetEvent "505" Type 130
+	SetJump Type 1 World TT Area 11 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

@@ -1,0 +1,9 @@
+Program 0x02
+Bgm Default Default
+AreaSettings 0 -1
+	SetProgressFlag 0x2C17
+	SetEvent "403" Type 130
+	SetJump Type 1 World LM Area 2 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

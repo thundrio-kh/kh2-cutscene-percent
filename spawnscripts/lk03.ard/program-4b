@@ -1,0 +1,7 @@
+Program 0x4B
+AreaSettings 0 -1
+	SetEvent "112" Type 194
+	SetJump Type 2 World LK Area 0 Entrance 0 LocalSet 76 FadeType 1
+	SetPartyMenu 0
+
+

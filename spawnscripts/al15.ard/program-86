@@ -1,0 +1,7 @@
+Program 0x86
+AreaSettings 0 -1
+	SetEvent "202v" Type 194
+	SetJump Type 2 World AL Area 0 Entrance 0 LocalSet 135 FadeType 16386
+	SetPartyMenu 0
+
+

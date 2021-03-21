@@ -1,0 +1,17 @@
+Program 0x16
+Party DEFAULT
+MapScript 48
+AreaSettings 9 -1
+	SetProgressFlag 0x1003
+	SetEvent "103" Type 129
+	SetJump Type 1 World HB Area 10 Entrance 51 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_01"
+Spawn "e_50"
+Spawn "e_51"
+Spawn "e_52"
+Spawn "a00e"
+Spawn "z00s"
+Spawn "o00s"
+

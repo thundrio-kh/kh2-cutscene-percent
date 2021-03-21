@@ -1,0 +1,7 @@
+Program 0xCF
+AreaSettings 0 -1
+	SetEvent "130" Type 194
+	SetJump Type 2 World EH Area 0 Entrance 0 LocalSet 208 FadeType 16386
+	SetPartyMenu 0
+
+

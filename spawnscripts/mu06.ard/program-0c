@@ -1,0 +1,12 @@
+Program 0x0C
+Party W_FRIEND
+Bgm Default Default
+AreaSettings 0 -1
+	SetProgressFlag 0x2042
+	SetEvent "205" Type 130
+	SetJump Type 2 World MU Area 0 Entrance 0 LocalSet 64 FadeType -1
+	SetPartyMenu 0
+
+Spawn "e_10"
+Spawn "e_50"
+

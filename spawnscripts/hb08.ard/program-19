@@ -1,0 +1,7 @@
+Program 0x19
+AreaSettings 0 -1
+	SetEvent "409" Type 130
+	SetJump Type 1 World ZZ Area 36 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

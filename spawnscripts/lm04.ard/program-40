@@ -1,0 +1,25 @@
+Program 0x40
+AreaSettings 0 -1
+	SetEvent "901" Type 130
+	SetPartyMenu 0
+
+AreaSettings 7 -1
+	SetProgressFlag 0x2C24
+	SetEvent "106" Type 136
+	SetJump Type 1 World LM Area 6 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 8 -1
+	SetProgressFlag 0x2C3E
+	SetEvent "110" Type 129
+	SetJump Type 1 World LM Area 2 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 139 -1
+	SetJump Type 2 World LM Area 0 Entrance 0 LocalSet 64 FadeType -1
+	SetPartyMenu 0
+
+AreaSettings 141 -1
+	SetProgressFlag 0x2C3E
+	SetJump Type 1 World LM Area 2 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0

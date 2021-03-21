@@ -1,0 +1,8 @@
+Program 0xA7
+Party NO_FRIEND
+AreaSettings 0 -1
+	SetEvent "321" Type 131
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 142 FadeType 1
+	SetPartyMenu 0
+
+

@@ -1,0 +1,7 @@
+Program 0x127
+AreaSettings 0 -1
+	SetEvent "505" Type 194
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 296 FadeType 1
+	SetPartyMenu 0
+
+

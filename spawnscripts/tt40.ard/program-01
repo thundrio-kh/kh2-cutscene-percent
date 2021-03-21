@@ -1,0 +1,10 @@
+Program 0x01
+Party DEFAULT
+Bgm Default Default
+AreaSettings 0 -1
+	SetProgressFlag 0x8C7
+	SetEvent "010" Type 130
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 160 FadeType 1
+	SetPartyMenu 0
+
+

@@ -1,0 +1,9 @@
+Program 0x04
+Party DEFAULT
+AreaSettings 0 -1
+	SetProgressFlag 0x280C
+	SetEvent "112" Type 130
+	SetJump Type 1 World LK Area 7 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

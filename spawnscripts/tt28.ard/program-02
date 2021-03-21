@@ -1,0 +1,12 @@
+Program 0x02
+Party DEFAULT
+AreaSettings 9 -1
+	SetProgressFlag 0x8AA
+	SetEvent "808" Type 134
+	SetJump Type 1 World TT Area 28 Entrance 51 LocalSet 0 FadeType 1
+	SetInventory 304 286
+	SetPartyMenu 0
+
+Spawn "e_50"
+Spawn "180y"
+

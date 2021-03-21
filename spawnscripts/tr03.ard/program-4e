@@ -1,0 +1,10 @@
+Program 0x4E
+Party W_FRIEND
+MapScript 23
+AreaSettings 0 -1
+	SetUnk05 0x3
+	SetEvent "112a" Type 130
+	SetJump Type 1 World TR Area 3 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

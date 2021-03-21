@@ -1,0 +1,11 @@
+Program 0x8F
+Party NO_FRIEND
+Bgm Default Default
+AreaSettings 0 -1
+	SetProgressFlag 0x865
+	SetUnk05 0x2
+	SetEvent "415" Type 130
+	SetJump Type 2 World EH Area 0 Entrance 0 LocalSet 115 FadeType 1
+	SetPartyMenu 0
+
+

@@ -1,0 +1,11 @@
+Program 0x3B
+Party W_FRIEND
+Bgm 110 110
+AreaSettings 16 -1
+	SetProgressFlag 0x4423
+	SetUnk05 0x2
+	SetEvent "212" Type 146
+	SetJump Type 2 World HB Area 0 Entrance 0 LocalSet 96 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_04"

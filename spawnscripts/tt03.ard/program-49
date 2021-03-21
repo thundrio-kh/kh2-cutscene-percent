@@ -1,0 +1,20 @@
+Program 0x49
+Bgm 114 114
+AreaSettings 7 -1
+	SetProgressFlag 0x882
+	SetMember 0
+	SetUnk05 0x3
+	SetEvent "604" Type 136
+	SetJump Type 1 World TT Area 3 Entrance 52 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 15 -1
+	SetProgressFlag 0x882
+	SetMember 0
+	SetUnk05 0x3
+	SetEvent "604" Type 137
+	SetJump Type 1 World TT Area 3 Entrance 52 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "a60_"
+

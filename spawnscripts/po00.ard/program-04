@@ -1,0 +1,10 @@
+Program 0x04
+Bgm Default Default
+AreaSettings 0 -1
+	SetProgressFlag 0x2434
+	SetUnk05 0x1
+	SetEvent "106" Type 130
+	SetJump Type 1 World HB Area 13 Entrance 1 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

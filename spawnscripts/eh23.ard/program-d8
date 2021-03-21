@@ -1,0 +1,8 @@
+Program 0xD8
+Bgm 61 61
+AreaSettings 0 -1
+	SetEvent "138" Type 194
+	SetJump Type 2 World EH Area 0 Entrance 0 LocalSet 217 FadeType 1
+	SetPartyMenu 0
+
+

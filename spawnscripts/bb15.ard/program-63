@@ -1,0 +1,9 @@
+Program 0x63
+Party W_FRIEND_IN
+Bgm 185 185
+AreaSettings 0 -1
+	SetUnk05 0x2
+	SetEvent "302" Type 131
+	SetJump Type 1 World HB Area 26 Entrance 23 LocalSet 0 FadeType 1
+	SetInventory 559
+	SetPartyMenu 0

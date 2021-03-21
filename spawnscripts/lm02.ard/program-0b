@@ -1,0 +1,8 @@
+Program 0x0B
+AreaSettings 0 -1
+	SetProgressFlag 0x2C2C
+	SetEvent "411" Type 194
+	SetJump Type 4 World LM Area 0 Entrance 0 LocalSet 0 FadeType -1
+	SetPartyMenu 0
+
+

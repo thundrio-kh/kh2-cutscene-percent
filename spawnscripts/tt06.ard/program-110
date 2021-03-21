@@ -1,0 +1,8 @@
+Program 0x110
+Bgm Default Default
+AreaSettings 0 -1
+	SetEvent "320" Type 195
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 273 FadeType 2
+	SetPartyMenu 0
+
+

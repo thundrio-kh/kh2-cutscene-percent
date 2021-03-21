@@ -1,0 +1,8 @@
+Program 0xE4
+Bgm 153 153
+AreaSettings 0 -1
+	SetEvent "409e" Type 194
+	SetJump Type 2 World HB Area 0 Entrance 0 LocalSet 229 FadeType 1
+	SetPartyMenu 0
+
+

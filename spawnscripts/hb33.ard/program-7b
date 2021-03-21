@@ -1,0 +1,11 @@
+Program 0x7B
+Party DEFAULT
+Bgm 63 63
+AreaSettings 0 -1
+	SetUnk05 0x2
+	SetEvent "724" Type 131
+	SetJump Type 1 World TT Area 4 Entrance 21 LocalSet 0 FadeType 1
+	SetInventory 545 550
+	SetPartyMenu 0
+
+

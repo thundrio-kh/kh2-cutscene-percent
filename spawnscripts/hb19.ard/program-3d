@@ -1,0 +1,10 @@
+Program 0x3D
+Party DEFAULT
+Bgm 153 153
+AreaSettings 0 -1
+	SetProgressFlag 0x1046
+	SetEvent "403" Type 130
+	SetJump Type 1 World HB Area 11 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

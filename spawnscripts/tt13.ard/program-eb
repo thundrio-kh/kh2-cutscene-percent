@@ -1,0 +1,8 @@
+Program 0xEB
+Bgm 119 119
+AreaSettings 0 -1
+	SetEvent "113" Type 194
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 236 FadeType 1
+	SetPartyMenu 0
+
+

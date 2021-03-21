@@ -1,0 +1,8 @@
+Program 0x11C
+Bgm Default Default
+AreaSettings 0 -1
+	SetEvent "410" Type 194
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 285 FadeType 1
+	SetPartyMenu 0
+
+

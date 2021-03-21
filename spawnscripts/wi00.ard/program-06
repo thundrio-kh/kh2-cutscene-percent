@@ -1,0 +1,11 @@
+Program 0x06
+Party DEFAULT
+AreaSettings 0 -1
+	SetProgressFlag 0x3414
+	SetEvent "116" Type 131
+	SetJump Type 1 World WI Area 0 Entrance 52 LocalSet 0 FadeType 1
+	SetInventory 368
+	SetPartyMenu 0
+
+Spawn "e_06"
+

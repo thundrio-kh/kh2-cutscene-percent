@@ -1,0 +1,9 @@
+Program 0x3B
+Bgm 115 115
+AreaSettings 16 -1
+	SetProgressFlag 0x2833
+	SetEvent "213" Type 146
+	SetJump Type 1 World LK Area 0 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

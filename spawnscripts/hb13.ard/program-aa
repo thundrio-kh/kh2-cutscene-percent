@@ -1,0 +1,7 @@
+Program 0xAA
+AreaSettings 0 -1
+	SetEvent "902" Type 194
+	SetJump Type 2 World HB Area 0 Entrance 0 LocalSet 171 FadeType 1
+	SetPartyMenu 0
+
+

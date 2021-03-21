@@ -1,0 +1,9 @@
+Program 0x7A
+Party NO_FRIEND
+AreaSettings 0 -1
+	SetProgressFlag 0x872
+	SetEvent "506" Type 130
+	SetJump Type 1 World TT Area 10 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

@@ -1,0 +1,15 @@
+Program 0x13
+Layout "file/%s/he_co.2ld"
+AreaSettings 9 -1
+	SetEvent "219" Type 129
+	SetJump Type 1 World HE Area 13 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Unk1d 4
+Spawn "e_50"
+Spawn "e54y"
+Spawn "h52_"
+Spawn "z00s"
+Spawn "f51m"
+SpawnAlt "f52m"
+

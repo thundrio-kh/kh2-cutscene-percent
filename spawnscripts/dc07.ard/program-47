@@ -1,0 +1,8 @@
+Program 0x47
+Bgm 67 67
+AreaSettings 0 -1
+	SetUnk05 0x2
+	SetEvent "204" Type 131
+	SetJump Type 1 World DC Area 5 Entrance 21 LocalSet 0 FadeType 1
+	SetInventory 591
+	SetPartyMenu 0

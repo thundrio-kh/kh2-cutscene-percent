@@ -1,0 +1,13 @@
+Program 0x0A
+Party W_FRIEND
+AreaSettings 0 -1
+	SetProgressFlag 0x2049
+	SetEvent "212" Type 130
+	SetJump Type 1 World MU Area 11 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_10"
+Spawn "e_50"
+Spawn "a51_"
+Spawn "d50_"
+

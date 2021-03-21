@@ -1,0 +1,12 @@
+Program 0x6C
+Party W_FRIEND_IN
+Bgm 185 185
+AreaSettings 0 -1
+	SetProgressFlag 0x484B
+	SetUnk05 0x2
+	SetEvent "606" Type 131
+	SetJump Type 1 World HB Area 26 Entrance 22 LocalSet 0 FadeType 1
+	SetInventory 555
+	SetPartyMenu 0
+
+

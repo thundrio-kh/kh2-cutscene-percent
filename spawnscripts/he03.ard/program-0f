@@ -1,0 +1,18 @@
+Program 0x0F
+Layout "file/%s/he_co.2ld"
+AreaSettings 9 -1
+	SetProgressFlag 0x1831
+	SetEvent "205" Type 129
+	SetJump Type 2 World HE Area 0 Entrance 0 LocalSet 125 FadeType 1
+	SetPartyMenu 0
+
+Unk1d 4
+Spawn "e_50"
+Spawn "a53_"
+Spawn "c53_"
+Spawn "e53y"
+Spawn "h51_"
+Spawn "z00s"
+Spawn "f51m"
+SpawnAlt "f52m"
+

@@ -1,0 +1,9 @@
+Program 0x87
+Party NO_FRIEND
+AreaSettings 0 -1
+	SetProgressFlag 0x88C
+	SetEvent "614" Type 131
+	SetJump Type 2 World EH Area 0 Entrance 0 LocalSet 83 FadeType 1
+	SetPartyMenu 0
+
+

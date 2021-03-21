@@ -1,0 +1,16 @@
+Program 0x02
+Party DEFAULT
+AreaSettings 9 -1
+	SetProgressFlag 0x2807
+	SetEvent "107" Type 133
+	SetJump Type 1 World LK Area 4 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_00"
+Spawn "e_50"
+Spawn "b02_"
+Spawn "c00_"
+Spawn "g00_"
+Spawn "h00_"
+Spawn "i00_"
+

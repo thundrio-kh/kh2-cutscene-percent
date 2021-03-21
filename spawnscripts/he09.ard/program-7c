@@ -1,0 +1,16 @@
+Program 0x7C
+Bgm 120 120
+AreaSettings 8 -1
+	SetProgressFlag 0x187E
+	SetUnk05 0x3
+	SetJump Type 1 World HE Area 3 Entrance 3 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 7 -1
+	SetProgressFlag 0x1878
+	SetUnk05 0x3
+	SetEvent "204" Type 136
+	SetJump Type 1 World HE Area 3 Entrance 3 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

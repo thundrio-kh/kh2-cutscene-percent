@@ -1,0 +1,10 @@
+Program 0x5F
+Party DEFAULT
+Bgm 94 94
+AreaSettings 0 -1
+	SetProgressFlag 0x481D
+	SetEvent "125" Type 131
+	SetJump Type 1 World EH Area 16 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

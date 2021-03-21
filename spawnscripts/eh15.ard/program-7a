@@ -1,0 +1,9 @@
+Program 0x7A
+Bgm Default Default
+AreaSettings 0 -1
+	SetEvent "122b" Type 131
+	SetJump Type 1 World EH Area 15 Entrance 50 LocalSet 0 FadeType 1
+	SetInventory 536
+	SetPartyMenu 0
+
+

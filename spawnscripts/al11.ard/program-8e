@@ -1,0 +1,5 @@
+Program 0x8E
+AreaSettings 0 -1
+	SetEvent "205" Type 194
+	SetJump Type 2 World AL Area 0 Entrance 0 LocalSet 143 FadeType 1
+	SetPartyMenu 0

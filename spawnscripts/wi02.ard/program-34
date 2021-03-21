@@ -1,0 +1,12 @@
+Program 0x34
+Party DEFAULT
+Bgm 117 117
+AreaSettings 16 -1
+	SetProgressFlag 0x3416
+	SetUnk05 0x3
+	SetEvent "118" Type 146
+	SetJump Type 1 World WI Area 2 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_02"
+

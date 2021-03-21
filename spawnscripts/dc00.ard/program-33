@@ -1,0 +1,10 @@
+Program 0x33
+Bgm 117 117
+AreaSettings 7 -1
+	SetProgressFlag 0x3009
+	SetEvent "107" Type 136
+	SetJump Type 1 World DC Area 4 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_03"
+

@@ -1,0 +1,12 @@
+Program 0x5F
+Party DEFAULT
+AreaSettings 7 -1
+	SetProgressFlag 0x1434
+	SetUnk05 0x3
+	SetEvent "107" Type 136
+	SetJump Type 1 World BB Area 8 Entrance 51 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Unk1d 4
+Spawn "j00_"
+

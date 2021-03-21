@@ -1,0 +1,8 @@
+Program 0x35
+Party DEFAULT
+AreaSettings 0 -1
+	SetEvent "101" Type 194
+	SetJump Type 2 World DC Area 0 Entrance 0 LocalSet 54 FadeType 1
+	SetPartyMenu 0
+
+

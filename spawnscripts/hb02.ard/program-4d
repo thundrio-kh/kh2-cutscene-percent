@@ -1,0 +1,6 @@
+Program 0x4D
+AreaSettings 0 -1
+	SetEvent "409c" Type 130
+	SetPartyMenu 0
+
+

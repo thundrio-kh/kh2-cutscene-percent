@@ -1,0 +1,16 @@
+Program 0x54
+Bgm 119 119
+AreaSettings 8 -1
+	SetProgressFlag 0x85A
+	SetUnk05 0x3
+	SetJump Type 1 World TT Area 5 Entrance 51 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 7 -1
+	SetProgressFlag 0x85B
+	SetUnk05 0x3
+	SetEvent "406" Type 147
+	SetJump Type 1 World TT Area 5 Entrance 52 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "800_"

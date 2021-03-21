@@ -1,0 +1,5 @@
+Program 0x5E
+AreaSettings 0 -1
+	SetEvent "106s" Type 194
+	SetJump Type 2 World CA Area 0 Entrance 0 LocalSet 95 FadeType 1
+	SetPartyMenu 0

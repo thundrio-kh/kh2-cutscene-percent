@@ -1,0 +1,26 @@
+Program 0x8C
+Bgm 164 164
+AreaSettings 7 -1
+	SetProgressFlag 0x1817
+	SetMember 1
+	SetEvent "141" Type 137
+	SetJump Type 1 World HE Area 0 Entrance 51 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 15 -1
+	SetProgressFlag 0x1819
+	SetMember 1
+	SetJump Type 1 World HE Area 0 Entrance 51 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 139 -1
+	SetUnk05 0x3
+	SetJump Type 2 World HE Area 0 Entrance 0 LocalSet 140 FadeType -1
+	SetPartyMenu 0
+
+AreaSettings 141 -1
+	SetUnk05 0x3
+	SetJump Type 1 World HE Area 0 Entrance 20 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

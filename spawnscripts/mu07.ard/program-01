@@ -1,0 +1,12 @@
+Program 0x01
+AreaSettings 0 -1
+	SetProgressFlag 0x203A
+	SetMember 0
+	SetUnk05 0x1
+	SetEvent "112" Type 130
+	SetJump Type 2 World MU Area 0 Entrance 0 LocalSet 73 FadeType 1
+	SetPartyMenu 1
+
+Spawn "e_10"
+Spawn "e_50"
+

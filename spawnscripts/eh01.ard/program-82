@@ -1,0 +1,6 @@
+Program 0x82
+Bgm Default Default
+AreaSettings 0 -1
+	SetEvent "301" Type 194
+	SetJump Type 2 World DI Area 0 Entrance 0 LocalSet 58 FadeType 1
+	SetPartyMenu 0

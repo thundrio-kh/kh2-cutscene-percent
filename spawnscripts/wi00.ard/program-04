@@ -1,0 +1,10 @@
+Program 0x04
+Party DEFAULT
+AreaSettings 0 -1
+	SetProgressFlag 0x3412
+	SetEvent "114" Type 131
+	SetJump Type 1 World WI Area 0 Entrance 53 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_04"
+

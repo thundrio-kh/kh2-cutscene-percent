@@ -1,0 +1,10 @@
+Program 0x3D
+Bgm Default Default
+Layout "menu/%s/jiminy.bar"
+AreaSettings 0 -1
+	SetProgressFlag 0x40A
+	SetEvent "993" Type 130
+	SetJump Type 5 World ES Area 0 Entrance 0 LocalSet 0 FadeType 16385
+	SetPartyMenu 0
+
+

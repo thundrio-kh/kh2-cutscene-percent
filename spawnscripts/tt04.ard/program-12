@@ -1,0 +1,9 @@
+Program 0x12
+AreaSettings 0 -1
+	SetProgressFlag 0x8F6
+	SetEvent "712" Type 130
+	SetJump Type 1 World TT Area 4 Entrance 56 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_50"
+

@@ -1,0 +1,7 @@
+Program 0x83
+AreaSettings 0 -1
+	SetEvent "117v" Type 194
+	SetJump Type 6 World AL Area 0 Entrance 0 LocalSet 0 FadeType -1
+	SetPartyMenu 0
+
+

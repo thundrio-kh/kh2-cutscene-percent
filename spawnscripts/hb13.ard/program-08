@@ -1,0 +1,11 @@
+Program 0x08
+Party DEFAULT
+AreaSettings 0 -1
+	SetProgressFlag 0x103B
+	SetEvent "907" Type 194
+	SetJump Type 2 World HB Area 0 Entrance 0 LocalSet 101 FadeType 1
+	SetInventory 258
+	SetPartyMenu 0
+
+Spawn "e_01"
+

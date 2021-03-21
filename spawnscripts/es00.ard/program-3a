@@ -1,0 +1,17 @@
+Program 0x3A
+Bgm Default Default
+Layout "menu/%s/jiminy.bar"
+MapScript 3
+AreaSettings 0 -1
+	SetEvent "998" Type 130
+	SetPartyMenu 0
+
+AreaSettings 7 -1
+	SetJump Type 2 World ES Area 0 Entrance 0 LocalSet 60 FadeType 16385
+	SetPartyMenu 0
+
+AreaSettings 8 -1
+	SetJump Type 5 World ES Area 0 Entrance 0 LocalSet 0 FadeType 16385
+	SetPartyMenu 0
+
+

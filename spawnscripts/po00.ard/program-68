@@ -1,0 +1,8 @@
+Program 0x68
+Bgm Default Default
+AreaSettings 0 -1
+	SetEvent "501" Type 194
+	SetJump Type 2 World PO Area 0 Entrance 0 LocalSet 105 FadeType 1
+	SetPartyMenu 0
+
+

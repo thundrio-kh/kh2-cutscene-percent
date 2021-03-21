@@ -1,0 +1,12 @@
+Program 0x39
+Bgm 185 185
+Layout "file/%s/b_ex140.2ld"
+AreaSettings 16 -1
+	SetProgressFlag 0x4812
+	SetUnk05 0x3
+	SetEvent "114" Type 146
+	SetJump Type 1 World EH Area 10 Entrance 50 LocalSet 0 FadeType 1
+	SetInventory 527
+	SetPartyMenu 0
+
+

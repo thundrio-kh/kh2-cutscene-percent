@@ -1,0 +1,15 @@
+Program 0x12
+AreaSettings 9 -1
+	SetProgressFlag 0x186F
+	SetEvent "209" Type 129
+	SetJump Type 1 World HE Area 3 Entrance 51 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_50"
+Spawn "a55_"
+Spawn "c55_"
+Spawn "e51_"
+Spawn "f52_"
+Spawn "i50e"
+Spawn "z00s"
+

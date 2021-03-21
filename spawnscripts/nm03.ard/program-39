@@ -1,0 +1,9 @@
+Program 0x39
+Bgm 93 93
+AreaSettings 0 -1
+	SetProgressFlag 0x3810
+	SetEvent "116" Type 130
+	SetJump Type 3 World NM Area 0 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

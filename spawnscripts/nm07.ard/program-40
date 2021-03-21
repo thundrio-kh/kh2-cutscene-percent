@@ -1,0 +1,11 @@
+Program 0x40
+Party W_FRIEND
+Bgm 115 115
+MapScript 8
+AreaSettings 16 -1
+	SetProgressFlag 0x3830
+	SetUnk05 0x3
+	SetEvent "216" Type 146
+	SetJump Type 1 World NM Area 0 Entrance 0 LocalSet 0 FadeType 1
+	SetInventory 275
+	SetPartyMenu 0

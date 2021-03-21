@@ -1,0 +1,11 @@
+Program 0x83
+Party DEFAULT
+Bgm 63 63
+AreaSettings 0 -1
+	SetUnk05 0x2
+	SetEvent "732" Type 131
+	SetJump Type 1 World HB Area 26 Entrance 24 LocalSet 0 FadeType 1
+	SetInventory 549
+	SetPartyMenu 0
+
+

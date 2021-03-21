@@ -1,0 +1,8 @@
+Program 0xD0
+AreaSettings 0 -1
+	SetMember 1
+	SetEvent "812c" Type 130
+	SetJump Type 1 World TT Area 27 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

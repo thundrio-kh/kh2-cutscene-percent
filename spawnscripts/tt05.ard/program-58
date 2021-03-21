@@ -1,0 +1,20 @@
+Program 0x58
+Bgm 119 119
+AreaSettings 8 -1
+	SetProgressFlag 0x862
+	SetUnk05 0x3
+	SetEvent "492" Type 147
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 113 FadeType 1
+	SetInventory 390 519
+	SetPartyMenu 0
+
+AreaSettings 7 -1
+	SetProgressFlag 0x862
+	SetUnk05 0x3
+	SetEvent "412" Type 147
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 113 FadeType 1
+	SetInventory 389 519
+	SetPartyMenu 0
+
+Spawn "800_"
+

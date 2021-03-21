@@ -1,0 +1,7 @@
+Program 0x4F
+AreaSettings 0 -1
+	SetEvent "004" Type 194
+	SetJump Type 2 World HB Area 0 Entrance 0 LocalSet 172 FadeType 1
+	SetPartyMenu 0
+
+

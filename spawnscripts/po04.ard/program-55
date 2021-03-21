@@ -1,0 +1,7 @@
+Program 0x55
+AreaSettings 0 -1
+	SetEvent "103s" Type 194
+	SetJump Type 2 World PO Area 0 Entrance 0 LocalSet 86 FadeType 1
+	SetPartyMenu 0
+
+

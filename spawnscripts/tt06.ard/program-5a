@@ -1,0 +1,29 @@
+Program 0x5A
+Bgm 82 82
+AreaSettings 141 -1
+	SetUnk05 0x3
+	SetJump Type 1 World TT Area 6 Entrance 52 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 7 1
+	SetProgressFlag 0x8DA
+	SetUnk05 0x3
+	SetEvent "253a" Type 147
+	SetJump Type 1 World TT Area 6 Entrance 52 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 7 2
+	SetProgressFlag 0x8DA
+	SetUnk05 0x3
+	SetEvent "253b" Type 147
+	SetJump Type 1 World TT Area 6 Entrance 52 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 7 3
+	SetProgressFlag 0x8DA
+	SetUnk05 0x3
+	SetEvent "253c" Type 147
+	SetJump Type 1 World TT Area 6 Entrance 52 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

@@ -1,0 +1,11 @@
+Program 0x01
+Party W_FRIEND_FIX
+Bgm Default Default
+AreaSettings 0 -1
+	SetProgressFlag 0x1811
+	SetEvent "117" Type 130
+	SetJump Type 2 World HE Area 0 Entrance 0 LocalSet 198 FadeType -1
+	SetPartyMenu 0
+
+Spawn "e_50"
+

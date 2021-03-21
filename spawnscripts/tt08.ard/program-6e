@@ -1,0 +1,11 @@
+Program 0x6E
+Party NO_FRIEND
+MapScript 20
+AreaSettings 0 -1
+	SetProgressFlag 0x835
+	SetEvent "287" Type 130
+	SetJump Type 1 World TT Area 8 Entrance 0 LocalSet 0 FadeType 1
+	SetInventory 288
+	SetPartyMenu 0
+
+

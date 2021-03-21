@@ -1,0 +1,6 @@
+Program 0x34
+Bgm 91 91
+AreaSettings 0 -1
+	SetEvent "998" Type 130
+	SetJump Type 2 World DI Area 0 Entrance 0 LocalSet 53 FadeType 1
+	SetPartyMenu 0

@@ -1,0 +1,11 @@
+Program 0x56
+Bgm 114 114
+AreaSettings 7 -1
+	SetProgressFlag 0x85F
+	SetUnk05 0x3
+	SetEvent "409" Type 136
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 87 FadeType 1
+	SetPartyMenu 0
+
+Spawn "801_"
+

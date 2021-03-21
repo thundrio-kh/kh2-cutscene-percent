@@ -1,0 +1,10 @@
+Program 0x4B
+Bgm 188 188
+AreaSettings 16 -1
+	SetProgressFlag 0x107D
+	SetMember 1
+	SetEvent "602" Type 146
+	SetJump Type 1 World HB Area 1 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

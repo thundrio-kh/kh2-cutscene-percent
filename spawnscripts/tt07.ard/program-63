@@ -1,0 +1,28 @@
+Program 0x63
+AreaSettings 37 -1
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 99 FadeType -1
+	SetPartyMenu 0
+
+AreaSettings 38 -1
+	SetProgressFlag 0x81F
+	SetEvent "108" Type 129
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 81 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 15 -1
+	SetProgressFlag 0x81F
+	SetUnk05 0x3
+	SetEvent "108" Type 137
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 81 FadeType 1
+	SetPartyMenu 0
+
+Spawn "a12_"
+Spawn "b12_"
+Spawn "c12_"
+Spawn "i00_"
+Spawn "q00_"
+Spawn "r00_"
+Spawn "t00_"
+Spawn "101_"
+Spawn "301_"
+

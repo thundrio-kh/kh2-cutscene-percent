@@ -1,0 +1,8 @@
+Program 0x62
+Bgm 115 115
+AreaSettings 0 -1
+	SetEvent "212" Type 194
+	SetJump Type 2 World LK Area 0 Entrance 0 LocalSet 99 FadeType 1
+	SetPartyMenu 0
+
+

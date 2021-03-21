@@ -1,0 +1,10 @@
+Program 0x01
+Party DEFAULT
+AreaSettings 0 -1
+	SetProgressFlag 0x1006
+	SetEvent "106" Type 130
+	SetJump Type 1 World HB Area 13 Entrance 51 LocalSet 0 FadeType 1
+	SetInventory 256 292
+	SetPartyMenu 0
+
+

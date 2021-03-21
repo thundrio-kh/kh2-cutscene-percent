@@ -1,0 +1,11 @@
+Program 0x03
+Party W_FRIEND
+Bgm Default Default
+AreaSettings 0 -1
+	SetProgressFlag 0x4825
+	SetEvent "133" Type 131
+	SetJump Type 1 World EH Area 18 Entrance 51 LocalSet 0 FadeType 1
+	SetInventory 537
+	SetPartyMenu 0
+
+

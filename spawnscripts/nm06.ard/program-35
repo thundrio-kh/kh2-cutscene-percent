@@ -1,0 +1,8 @@
+Program 0x35
+Bgm 65 65
+AreaSettings 7 -1
+	SetProgressFlag 0x381B
+	SetUnk05 0x3
+	SetEvent "112" Type 136
+	SetJump Type 1 World NM Area 6 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0

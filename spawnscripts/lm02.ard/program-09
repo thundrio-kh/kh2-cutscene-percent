@@ -1,0 +1,6 @@
+Program 0x09
+AreaSettings 0 -1
+	SetProgressFlag 0x2C18
+	SetEvent "404" Type 130
+	SetJump Type 1 World LM Area 2 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0

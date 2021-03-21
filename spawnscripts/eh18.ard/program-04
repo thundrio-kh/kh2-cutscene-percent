@@ -1,0 +1,24 @@
+Program 0x04
+Party W_FRIEND
+MapScript 19
+AreaSettings 9 -1
+	SetProgressFlag 0x4826
+	SetEvent "134" Type 134
+	SetJump Type 2 World EH Area 0 Entrance 0 LocalSet 94 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 0 -1
+	SetProgressFlag 0x4847
+	SetPartyMenu 0
+
+AreaSettings 33 -1
+	SetProgressFlag 0x4846
+	SetPartyMenu 0
+
+Unk1d 4
+Spawn "e_50"
+Spawn "a01_"
+Spawn "b06_"
+Spawn "c00_"
+Spawn "e06_"
+

@@ -1,0 +1,7 @@
+Program 0x11F
+AreaSettings 0 -1
+	SetEvent "413" Type 194
+	SetJump Type 2 World DI Area 0 Entrance 0 LocalSet 55 FadeType 1
+	SetPartyMenu 0
+
+

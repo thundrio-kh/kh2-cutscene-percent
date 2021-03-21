@@ -1,0 +1,9 @@
+Program 0x42
+Party W_FRIEND_FIX
+AreaSettings 0 -1
+	SetProgressFlag 0x180E
+	SetEvent "114" Type 130
+	SetJump Type 1 World HE Area 15 Entrance 1 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

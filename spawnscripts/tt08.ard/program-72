@@ -1,0 +1,10 @@
+Program 0x72
+Party NO_FRIEND
+Bgm 91 91
+AreaSettings 0 -1
+	SetProgressFlag 0x864
+	SetEvent "414" Type 130
+	SetJump Type 2 World DI Area 0 Entrance 0 LocalSet 52 FadeType 1
+	SetPartyMenu 0
+
+

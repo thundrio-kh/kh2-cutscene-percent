@@ -1,0 +1,31 @@
+Program 0x11
+Bgm 128 128
+Layout "file/%s/al_ca.2ld"
+AreaSettings 7 0
+	SetProgressFlag 0x1C4A
+	SetMember 2
+	SetEvent "256" Type 136
+	SetJump Type 2 World AL Area 0 Entrance 0 LocalSet 100 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 7 1
+	SetProgressFlag 0x1C4A
+	SetMember 2
+	SetEvent "256" Type 136
+	SetJump Type 2 World AL Area 0 Entrance 0 LocalSet 101 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 7 2
+	SetProgressFlag 0x1C4A
+	SetMember 2
+	SetEvent "256" Type 136
+	SetJump Type 2 World AL Area 0 Entrance 0 LocalSet 102 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 1 -1
+	SetProgressFlag 0x1C4F
+	SetMember 2
+	SetPartyMenu 0
+
+Spawn "e_54"
+

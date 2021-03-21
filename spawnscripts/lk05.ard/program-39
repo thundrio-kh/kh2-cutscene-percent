@@ -1,0 +1,8 @@
+Program 0x39
+Bgm 117 117
+AreaSettings 7 -1
+	SetProgressFlag 0x2828
+	SetUnk05 0x3
+	SetEvent "207" Type 136
+	SetJump Type 1 World LK Area 0 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0

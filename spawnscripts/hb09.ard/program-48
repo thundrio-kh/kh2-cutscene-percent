@@ -1,0 +1,17 @@
+Program 0x48
+Bgm 136 136
+AreaSettings 7 -1
+	SetProgressFlag 0x1065
+	SetUnk05 0x3
+	SetEvent "510" Type 136
+	SetJump Type 1 World HB Area 13 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 15 -1
+	SetProgressFlag 0x1065
+	SetUnk05 0x3
+	SetEvent "510" Type 137
+	SetJump Type 1 World HB Area 13 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

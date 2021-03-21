@@ -1,0 +1,8 @@
+Program 0x03
+Party DEFAULT
+AreaSettings 0 -1
+	SetEvent "125" Type 131
+	SetJump Type 1 World WI Area 0 Entrance 0 LocalSet 0 FadeType 2
+	SetPartyMenu 0
+
+

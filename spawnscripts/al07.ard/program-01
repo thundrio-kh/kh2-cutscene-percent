@@ -1,0 +1,11 @@
+Program 0x01
+Party W_FRIEND
+Bgm 98 98
+AreaSettings 0 -1
+	SetProgressFlag 0x1C09
+	SetEvent "109" Type 130
+	SetJump Type 1 World AL Area 7 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_50"
+

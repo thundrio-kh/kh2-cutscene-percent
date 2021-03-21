@@ -1,0 +1,10 @@
+Program 0x4D
+Party W_FRIEND
+Bgm Default Default
+MapScript 28
+AreaSettings 0 -1
+	SetEvent "206a" Type 130
+	SetJump Type 1 World TR Area 5 Entrance 52 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

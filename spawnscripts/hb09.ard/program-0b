@@ -1,0 +1,10 @@
+Program 0x0B
+Party DEFAULT
+Bgm 98 98
+AreaSettings 0 -1
+	SetProgressFlag 0x1069
+	SetEvent "514" Type 130
+	SetJump Type 2 World HB Area 0 Entrance 0 LocalSet 103 FadeType 1
+	SetPartyMenu 0
+
+

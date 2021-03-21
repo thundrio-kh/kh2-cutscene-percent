@@ -1,0 +1,23 @@
+Program 0x04
+Bgm Default Default
+AreaSettings 1 58
+	SetProgressFlag 0x883
+	SetEvent "605" Type 133
+	SetJump Type 1 World TT Area 2 Entrance 0 LocalSet 0 FadeType 0
+	SetPartyMenu 0
+
+AreaSettings 1 42
+	SetProgressFlag 0x883
+	SetEvent "605" Type 133
+	SetJump Type 1 World TT Area 4 Entrance 0 LocalSet 0 FadeType 0
+	SetPartyMenu 0
+
+AreaSettings 1 60
+	SetProgressFlag 0x883
+	SetEvent "605" Type 133
+	SetJump Type 1 World TT Area 6 Entrance 0 LocalSet 0 FadeType 0
+	SetPartyMenu 0
+
+Spawn "e_50"
+Spawn "a61_"
+

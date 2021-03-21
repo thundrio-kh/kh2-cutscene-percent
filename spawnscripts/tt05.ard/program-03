@@ -1,0 +1,18 @@
+Program 0x03
+Party NO_FRIEND
+AreaSettings 9 -1
+	SetProgressFlag 0x859
+	SetEvent "405" Type 134
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 84 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_50"
+Spawn "a41_"
+Spawn "b41_"
+Spawn "c41_"
+Spawn "g41_"
+Spawn "h41_"
+Spawn "q01_"
+Spawn "r02_"
+Spawn "y02y"
+

@@ -1,0 +1,14 @@
+Program 0x03
+Party DEFAULT
+AreaSettings 9 -1
+	SetProgressFlag 0x8C1
+	SetEvent "006" Type 129
+	SetJump Type 1 World TT Area 21 Entrance 52 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_50"
+Spawn "a92_"
+Spawn "b92y"
+Spawn "c92_"
+Spawn "892_"
+

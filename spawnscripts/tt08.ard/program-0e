@@ -1,0 +1,10 @@
+Program 0x0E
+Party NO_FRIEND
+AreaSettings 9 -1
+	SetEvent "207c" Type 129
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 111 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_50"
+Spawn "a24y"
+

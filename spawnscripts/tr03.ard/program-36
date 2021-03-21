@@ -1,0 +1,9 @@
+Program 0x36
+Bgm 136 136
+AreaSettings 7 -1
+	SetProgressFlag 0x440E
+	SetEvent "112" Type 136
+	SetJump Type 2 World TR Area 0 Entrance 0 LocalSet 78 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_03"

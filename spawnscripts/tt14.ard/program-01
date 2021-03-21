@@ -1,0 +1,15 @@
+Program 0x01
+Party NO_FRIEND
+Bgm 119 119
+AreaSettings 0 -1
+	SetProgressFlag 0x8F8
+	SetPartyMenu 0
+
+AreaSettings 9 -1
+	SetProgressFlag 0x825
+	SetEvent "114" Type 134
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 127 FadeType 1
+	SetPartyMenu 0
+
+Spawn "800e"
+

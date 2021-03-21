@@ -1,0 +1,4 @@
+Program 0x3C
+AreaSettings 0 -1
+	SetEvent "215" Type 130
+	SetPartyMenu 0

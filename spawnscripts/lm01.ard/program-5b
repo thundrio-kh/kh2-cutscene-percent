@@ -1,0 +1,8 @@
+Program 0x5B
+Bgm 93 93
+AreaSettings 0 -1
+	SetEvent "402s" Type 194
+	SetJump Type 2 World LM Area 0 Entrance 0 LocalSet 92 FadeType 1
+	SetPartyMenu 0
+
+

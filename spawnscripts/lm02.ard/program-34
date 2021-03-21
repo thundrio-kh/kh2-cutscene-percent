@@ -1,0 +1,12 @@
+Program 0x34
+AreaSettings 15 -1
+	SetProgressFlag 0x2C03
+	SetEvent "103" Type 137
+	SetJump Type 2 World LM Area 0 Entrance 0 LocalSet 63 FadeType 1
+	SetPartyMenu 0
+
+Spawn "a10_"
+Spawn "b10_"
+Spawn "c10_"
+Spawn "e10_"
+

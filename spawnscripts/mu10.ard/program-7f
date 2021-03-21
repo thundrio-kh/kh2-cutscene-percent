@@ -1,0 +1,8 @@
+Program 0x7F
+Bgm Default Default
+AreaSettings 0 -1
+	SetEvent "213" Type 194
+	SetJump Type 2 World MU Area 0 Entrance 0 LocalSet 128 FadeType 1
+	SetPartyMenu 0
+
+

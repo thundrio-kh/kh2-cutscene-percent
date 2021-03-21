@@ -1,0 +1,8 @@
+Program 0x04
+AreaSettings 0 -1
+	SetProgressFlag 0x2417
+	SetEvent "205" Type 130
+	SetJump Type 1 World PO Area 0 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

@@ -1,0 +1,10 @@
+Program 0x35
+Party NO_FRIEND
+Bgm Default Default
+AreaSettings 0 -1
+	SetProgressFlag 0x82C
+	SetEvent "200" Type 194
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 57 FadeType 16386
+	SetPartyMenu 0
+
+

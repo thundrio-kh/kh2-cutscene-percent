@@ -1,0 +1,12 @@
+Program 0x01
+Party W_FRIEND_FIX
+AreaSettings 9 -1
+	SetProgressFlag 0x2037
+	SetUnk05 0x1
+	SetEvent "109" Type 129
+	SetJump Type 2 World MU Area 0 Entrance 0 LocalSet 72 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_10"
+Spawn "e_50"
+

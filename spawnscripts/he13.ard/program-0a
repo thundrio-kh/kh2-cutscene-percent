@@ -1,0 +1,11 @@
+Program 0x0A
+MapScript 4
+AreaSettings 0 -1
+	SetProgressFlag 0x183B
+	SetMember 3
+	SetUnk05 0x1
+	SetEvent "213" Type 194
+	SetJump Type 2 World HE Area 0 Entrance 0 LocalSet 201 FadeType 1
+	SetPartyMenu 1
+
+

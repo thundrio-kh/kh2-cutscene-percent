@@ -1,0 +1,23 @@
+Program 0x4E
+Bgm 119 119
+AreaSettings 7 -1
+	SetProgressFlag 0x823
+	SetUnk05 0x3
+	SetEvent "112" Type 136
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 126 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 15 -1
+	SetProgressFlag 0x823
+	SetUnk05 0x3
+	SetEvent "192" Type 137
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 126 FadeType 1
+	SetPartyMenu 0
+
+Spawn "a11_"
+Spawn "b11_"
+Spawn "c11_"
+Spawn "e11_"
+Spawn "f11_"
+Spawn "h11_"
+

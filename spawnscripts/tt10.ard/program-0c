@@ -1,0 +1,24 @@
+Program 0x0C
+Layout "file/%s/tt_my.2ld"
+AreaSettings 9 -1
+	SetEvent "522" Type 129
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 120 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 10 -1
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 171 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 11 -1
+	SetEvent "524" Type 129
+	SetJump Type 2 World TT Area 0 Entrance 0 LocalSet 121 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_50"
+Spawn "a51_"
+Spawn "b51m"
+Spawn "c51_"
+Spawn "p00_"
+Spawn "v00_"
+Spawn "w00_"
+

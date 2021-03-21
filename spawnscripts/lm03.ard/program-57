@@ -1,0 +1,5 @@
+Program 0x57
+AreaSettings 0 -1
+	SetEvent "903" Type 194
+	SetJump Type 2 World LM Area 0 Entrance 0 LocalSet 88 FadeType 1
+	SetPartyMenu 0

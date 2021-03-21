@@ -1,0 +1,8 @@
+Program 0x69
+Bgm 129 129
+AreaSettings 0 -1
+	SetEvent "301v" Type 194
+	SetJump Type 2 World LM Area 0 Entrance 0 LocalSet 87 FadeType 1
+	SetPartyMenu 0
+
+

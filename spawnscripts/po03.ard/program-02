@@ -1,0 +1,13 @@
+Program 0x02
+AreaSettings 9 -1
+	SetProgressFlag 0x2413
+	SetEvent "203" Type 129
+	SetJump Type 2 World PO Area 0 Entrance 0 LocalSet 57 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_50"
+Spawn "e_01"
+Spawn "a07_"
+Spawn "c05_"
+Spawn "d00_"
+

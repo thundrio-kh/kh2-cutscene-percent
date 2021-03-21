@@ -1,0 +1,10 @@
+Program 0x99
+Bgm 134 134
+AreaSettings 7 -1
+	SetProgressFlag 0x8A6
+	SetUnk05 0x3
+	SetEvent "804" Type 136
+	SetJump Type 1 World TT Area 30 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

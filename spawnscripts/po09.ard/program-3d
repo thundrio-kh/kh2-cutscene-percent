@@ -1,0 +1,27 @@
+Program 0x3D
+Bgm 158 158
+AreaSettings 7 -1
+	SetProgressFlag 0x2425
+	SetUnk05 0x3
+	SetJump Type 1 World PO Area 9 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 8 -1
+	SetProgressFlag 0x2450
+	SetUnk05 0x3
+	SetEvent "499" Type 147
+	SetJump Type 1 World PO Area 9 Entrance 50 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 139 -1
+	SetUnk05 0x3
+	SetJump Type 2 World PO Area 0 Entrance 0 LocalSet 61 FadeType 1
+	SetPartyMenu 0
+
+AreaSettings 141 -1
+	SetProgressFlag 0x2450
+	SetUnk05 0x3
+	SetJump Type 1 World PO Area 9 Entrance 20 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+

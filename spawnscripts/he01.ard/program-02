@@ -1,0 +1,11 @@
+Program 0x02
+Party DEFAULT
+AreaSettings 9 -1
+	SetProgressFlag 0x1816
+	SetEvent "122" Type 129
+	SetJump Type 1 World HE Area 4 Entrance 0 LocalSet 0 FadeType 1
+	SetPartyMenu 0
+
+Spawn "e_02"
+Spawn "e_50"
+
